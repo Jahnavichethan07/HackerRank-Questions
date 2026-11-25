@@ -32,7 +32,7 @@ int main()
     else if(n==8)
     cout<<"eight";
     else if(n==9)
-    cout<<"ten";
+    cout<<"nine";
     else 
     cout<<"Greater than 9";
 
